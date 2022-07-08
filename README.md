@@ -25,3 +25,16 @@ In this repository two files exists, the first one has to do with the creation o
 13) Common neighbours  
 14) Same Cluster (community)  
 15) Community resource allocation  
+
+## In the second repository we perform feature selection and afterwards we train the following algorithms:
+
+- SVM
+- KNN
+- Decision Trees
+- Radom Forest Classifier
+- AdaBoost
+- Bagging Classifier
+- Gradient Boosting Classifier
+- Gausian NB
+- Linear Discriminant Analysis
+- MLP Classifier
